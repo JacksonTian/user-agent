@@ -1,0 +1,23 @@
+{
+  "name": "fake-user-agent",
+  "version": "0.0.1",
+  "description": "Fake User Agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/user-agent.git"
+  },
+  "keywords": [
+    "UserAgent"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "a1212b6d78bca8beeada94c3217f83039e63c5be",
+  "bugs": {
+    "url": "https://github.com/JacksonTian/user-agent/issues"
+  }
+}
